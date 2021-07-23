@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.first{
+  background-color: aqua;
+}
+
+.second{
+  background-color: darkcyan;
+}
+
+.third{
+  background-color: darkturquoise;
+}
+
+.fourth{
+
+  background-color:cornflowerblue;
+}
