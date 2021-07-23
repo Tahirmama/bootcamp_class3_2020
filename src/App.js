@@ -8,7 +8,6 @@ function App() {
       <hr/>
     <h1>Using Props </h1>
 <hr/>
-<h2>Introduction</h2>
 
     <Name name = "Tahir" F_name= "Muzaffar" age = "21" sports="Cricket & Volleyball" F_plan= "Leading Businessman"/>
     <hr/>
