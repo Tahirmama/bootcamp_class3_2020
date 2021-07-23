@@ -6,9 +6,9 @@ function App() {
     <div className="App">
     <h1>Using Props </h1>
 
-
+    <Name name = "Tahir" F_name= "Muzaffar" age = "21" />
     </div>
-<Name name = "Tahir" F_name= "Muzaffar" age = "21"/>
+
 );
 }
 
