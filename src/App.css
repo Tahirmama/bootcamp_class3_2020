@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: cyan;
+  text-shadow: darkgray 2px 2px 2px 2px;
 }
 
 .App-logo {
@@ -35,20 +37,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-.first{
-  background-color: aqua;
-}
-
-.second{
-  background-color: darkcyan;
-}
-
-.third{
-  background-color: darkturquoise;
-}
-
-.fourth{
-
-  background-color:cornflowerblue;
 }
